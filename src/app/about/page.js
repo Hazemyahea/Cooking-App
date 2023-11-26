@@ -5,9 +5,8 @@ export default function AboutPage() {
       <p className="text-center text-lg">
         Hello , it's built with next js + Talwind css +{" "}
         <a href="https://www.themealdb.com/">API</a> it's crached sometimes
-        especially in SingleFood page <br />
-        <br />
-        it's a simple next js project for learning purpose To Contact with me
+        especially in SingleFood page it's a simple next js project for learning
+        purpose To Contact with me
         <a
           href="https://twitter.com/HazemYdev"
           className="text-blue-500"
